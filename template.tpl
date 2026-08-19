@@ -12,6 +12,7 @@ ___INFO___
   "type": "TAG",
   "id": "cvt_temp_public_id",
   "version": 1,
+  "categories": ["ANALYTICS", "ADVERTISING"],
   "securityGroups": [],
   "displayName": "Cookield CMP - Consent Mode v2",
   "brand": {
