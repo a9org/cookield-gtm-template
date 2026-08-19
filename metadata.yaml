@@ -1,5 +1,5 @@
 homepage: "https://cookield.io"
 documentation: "https://cookield.io/docs/consent-mode"
 versions:
-  - sha: HEAD
+  - sha: cbfdbf819e5382372645eafa6f6db913b04bf477
     changeNotes: "Initial release — Cookield CMP Consent Mode v2 template with support for ad_storage, analytics_storage, ad_user_data, ad_personalization, functionality_storage, personalization_storage, and security_storage."
